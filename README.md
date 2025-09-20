@@ -1,2 +1,1 @@
-# Learn-Network
-Learn Network
+# Learn-Network — Study Kit for CompTIA A+ & Network+
